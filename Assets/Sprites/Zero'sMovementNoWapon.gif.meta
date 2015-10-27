@@ -1,0 +1,1485 @@
+fileFormatVersion: 2
+guid: 3d93ff7e8e4924a45b7c142eb0345168
+timeCreated: 1445218422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zero'sMovementNoWapon_0
+    21300002: Zero'sMovementNoWapon_1
+    21300004: Zero'sMovementNoWapon_2
+    21300006: Zero'sMovementNoWapon_3
+    21300008: Zero'sMovementNoWapon_4
+    21300010: Zero'sMovementNoWapon_5
+    21300012: Zero'sMovementNoWapon_6
+    21300014: Zero'sMovementNoWapon_7
+    21300016: Zero'sMovementNoWapon_8
+    21300018: Zero'sMovementNoWapon_9
+    21300020: Zero'sMovementNoWapon_10
+    21300022: Zero'sMovementNoWapon_11
+    21300024: Zero'sMovementNoWapon_12
+    21300026: Zero'sMovementNoWapon_13
+    21300028: Zero'sMovementNoWapon_14
+    21300030: Zero'sMovementNoWapon_15
+    21300032: Zero'sMovementNoWapon_16
+    21300034: Zero'sMovementNoWapon_17
+    21300036: Zero'sMovementNoWapon_18
+    21300038: Zero'sMovementNoWapon_19
+    21300040: Zero'sMovementNoWapon_20
+    21300042: Zero'sMovementNoWapon_21
+    21300044: Zero'sMovementNoWapon_22
+    21300046: Zero'sMovementNoWapon_23
+    21300048: Zero'sMovementNoWapon_24
+    21300050: Zero'sMovementNoWapon_25
+    21300052: Zero'sMovementNoWapon_26
+    21300054: Zero'sMovementNoWapon_27
+    21300056: Zero'sMovementNoWapon_28
+    21300058: Zero'sMovementNoWapon_29
+    21300060: Zero'sMovementNoWapon_30
+    21300062: Zero'sMovementNoWapon_31
+    21300064: Zero'sMovementNoWapon_32
+    21300066: Zero'sMovementNoWapon_33
+    21300068: Zero'sMovementNoWapon_34
+    21300070: Zero'sMovementNoWapon_35
+    21300072: Zero'sMovementNoWapon_36
+    21300074: Zero'sMovementNoWapon_37
+    21300076: Zero'sMovementNoWapon_38
+    21300078: Zero'sMovementNoWapon_39
+    21300080: Zero'sMovementNoWapon_40
+    21300082: Zero'sMovementNoWapon_41
+    21300084: Zero'sMovementNoWapon_42
+    21300086: Zero'sMovementNoWapon_43
+    21300088: Zero'sMovementNoWapon_44
+    21300090: Zero'sMovementNoWapon_45
+    21300092: Zero'sMovementNoWapon_46
+    21300094: Zero'sMovementNoWapon_47
+    21300096: Zero'sMovementNoWapon_48
+    21300098: Zero'sMovementNoWapon_49
+    21300100: Zero'sMovementNoWapon_50
+    21300102: Zero'sMovementNoWapon_51
+    21300104: Zero'sMovementNoWapon_52
+    21300106: Zero'sMovementNoWapon_53
+    21300108: Zero'sMovementNoWapon_54
+    21300110: Zero'sMovementNoWapon_55
+    21300112: Zero'sMovementNoWapon_56
+    21300114: Zero'sMovementNoWapon_57
+    21300116: Zero'sMovementNoWapon_58
+    21300118: Zero'sMovementNoWapon_59
+    21300120: Zero'sMovementNoWapon_60
+    21300122: Zero'sMovementNoWapon_61
+    21300124: Zero'sMovementNoWapon_62
+    21300126: Zero'sMovementNoWapon_63
+    21300128: Zero'sMovementNoWapon_64
+    21300130: Zero'sMovementNoWapon_65
+    21300132: Zero'sMovementNoWapon_66
+    21300134: Zero'sMovementNoWapon_67
+    21300136: Zero'sMovementNoWapon_68
+    21300138: Zero'sMovementNoWapon_69
+    21300140: Zero'sMovementNoWapon_70
+    21300142: Zero'sMovementNoWapon_71
+    21300144: Zero'sMovementNoWapon_72
+    21300146: Zero'sMovementNoWapon_73
+    21300148: Zero'sMovementNoWapon_74
+    21300150: Zero'sMovementNoWapon_75
+    21300152: Zero'sMovementNoWapon_76
+    21300154: Zero'sMovementNoWapon_77
+    21300156: Zero'sMovementNoWapon_78
+    21300158: Zero'sMovementNoWapon_79
+    21300160: Zero'sMovementNoWapon_80
+    21300162: Zero'sMovementNoWapon_81
+    21300164: Zero'sMovementNoWapon_82
+    21300166: Zero'sMovementNoWapon_83
+    21300168: Zero'sMovementNoWapon_84
+    21300170: Zero'sMovementNoWapon_85
+    21300172: Zero'sMovementNoWapon_86
+    21300174: Zero'sMovementNoWapon_87
+    21300176: Zero'sMovementNoWapon_88
+    21300178: Zero'sMovementNoWapon_89
+    21300180: Zero'sMovementNoWapon_90
+    21300182: Zero'sMovementNoWapon_91
+    21300184: Zero'sMovementNoWapon_92
+    21300186: Zero'sMovementNoWapon_93
+    21300188: Zero'sMovementNoWapon_94
+    21300190: Zero'sMovementNoWapon_95
+    21300192: Zero'sMovementNoWapon_96
+    21300194: Zero'sMovementNoWapon_97
+    21300196: Zero'sMovementNoWapon_98
+    21300198: Zero'sMovementNoWapon_99
+    21300200: Zero'sMovementNoWapon_100
+    21300202: Zero'sMovementNoWapon_101
+    21300204: Zero'sMovementNoWapon_102
+    21300206: Zero'sMovementNoWapon_103
+    21300208: Zero'sMovementNoWapon_104
+    21300210: Zero'sMovementNoWapon_105
+    21300212: Zero'sMovementNoWapon_106
+    21300214: Zero'sMovementNoWapon_107
+    21300216: Zero'sMovementNoWapon_108
+    21300218: Zero'sMovementNoWapon_109
+    21300220: Zero'sMovementNoWapon_110
+    21300222: Zero'sMovementNoWapon_111
+    21300224: Zero'sMovementNoWapon_112
+    21300226: Zero'sMovementNoWapon_113
+    21300228: Zero'sMovementNoWapon_114
+    21300230: Zero'sMovementNoWapon_115
+    21300232: Zero'sMovementNoWapon_116
+    21300234: Zero'sMovementNoWapon_117
+    21300236: Zero'sMovementNoWapon_118
+    21300238: Zero'sMovementNoWapon_119
+    21300240: Zero'sMovementNoWapon_120
+    21300242: Zero'sMovementNoWapon_121
+    21300244: Zero'sMovementNoWapon_122
+    21300246: Zero'sMovementNoWapon_123
+    21300248: Zero'sMovementNoWapon_124
+    21300250: Zero'sMovementNoWapon_125
+    21300252: Zero'sMovementNoWapon_126
+    21300254: Zero'sMovementNoWapon_127
+    21300256: Zero'sMovementNoWapon_128
+    21300258: Zero'sMovementNoWapon_129
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Zero'sMovementNoWapon_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 676
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 676
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 676
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 676
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 676
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 676
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 628
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 628
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 628
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 629
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 629
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 629
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 629
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 629
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 628
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 628
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 628
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 574
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 573
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 572
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: .469999999, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 572
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: .535000026, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 572
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: .550000012, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 572
+        width: 36
+        height: 46
+      alignment: 9
+      pivot: {x: .625, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 571
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: .560000002, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 572
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: .560000002, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 572
+        width: 33
+        height: 47
+      alignment: 9
+      pivot: {x: .560000002, y: .488999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 572
+        width: 33
+        height: 47
+      alignment: 9
+      pivot: {x: .560000002, y: .488999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 569
+        width: 34
+        height: 47
+      alignment: 9
+      pivot: {x: .550000012, y: .488999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_28
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 569
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 518
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 518
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 518
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 518
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 518
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 518
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 518
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 518
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 519
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_38
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 519
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 519
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_40
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 519
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_41
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 519
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_42
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 518
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_43
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 518
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 462
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 463
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 464
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 464
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 464
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 464
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_50
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 465
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 465
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_52
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 468
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_53
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 467
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 467
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_55
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 467
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_56
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 466
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_57
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 466
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_58
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 386
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_59
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 379
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_60
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 388
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_61
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 388
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_62
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 381
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 387
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 388
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 403
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_66
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 414
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_67
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 393
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 393
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_69
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 393
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_70
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 395
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_71
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 393
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_72
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 393
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_73
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 393
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_74
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 393
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 233
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_76
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 233
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 233
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_78
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 303
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 233
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_80
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 303
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_81
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 233
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 233
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_83
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 303
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_84
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 233
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_85
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 303
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_86
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 233
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_87
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 233
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_88
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 306
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_89
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 233
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_90
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 306
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_91
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 232
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 306
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_93
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 233
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_94
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 232
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_95
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 283
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_96
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 229
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_97
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 231
+        width: 7
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_98
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 232
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_99
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 232
+        width: 4
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_100
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 233
+        width: 4
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_101
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 232
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_102
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 233
+        width: 4
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_103
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 233
+        width: 4
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_104
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 233
+        width: 4
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_106
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 168
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_107
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 168
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_108
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 168
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_109
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 169
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_110
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 168
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_111
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 168
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_112
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 168
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_113
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 168
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_114
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 168
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_115
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 168
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_116
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 168
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_117
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 168
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_118
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 168
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_119
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 168
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_120
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 94
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_121
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 96
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_122
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 94
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_123
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 92
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_124
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 93
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_125
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 31
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_126
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 30
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_127
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 31
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_128
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 30
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sMovementNoWapon_129
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 26
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

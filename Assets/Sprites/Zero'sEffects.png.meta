@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: 9c8b721f469ea4b449d911ec08c4e835
+timeCreated: 1445270963
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zero'sEffects_0
+    21300002: Zero'sEffects_1
+    21300004: Zero'sEffects_2
+    21300006: Zero'sEffects_3
+    21300008: Zero'sEffects_4
+    21300010: Zero'sEffects_5
+    21300012: Zero'sEffects_6
+    21300014: Zero'sEffects_7
+    21300016: Zero'sEffects_8
+    21300018: Zero'sEffects_9
+    21300020: Zero'sEffects_10
+    21300022: Zero'sEffects_11
+    21300024: Zero'sEffects_12
+    21300026: Zero'sEffects_13
+    21300028: Zero'sEffects_14
+    21300030: Zero'sEffects_15
+    21300032: Zero'sEffects_16
+    21300034: Zero'sEffects_17
+    21300036: Zero'sEffects_18
+    21300038: Zero'sEffects_19
+    21300040: Zero'sEffects_20
+    21300042: Zero'sEffects_21
+    21300044: Zero'sEffects_22
+    21300046: Zero'sEffects_23
+    21300048: Zero'sEffects_24
+    21300050: Zero'sEffects_25
+    21300052: Zero'sEffects_26
+    21300054: Zero'sEffects_27
+    21300056: Zero'sEffects_28
+    21300058: Zero'sEffects_29
+    21300060: Zero'sEffects_30
+    21300062: Zero'sEffects_31
+    21300064: Zero'sEffects_32
+    21300066: Zero'sEffects_33
+    21300068: Zero'sEffects_34
+    21300070: Zero'sEffects_35
+    21300072: Zero'sEffects_36
+    21300074: Zero'sEffects_37
+    21300076: Zero'sEffects_38
+    21300078: Zero'sEffects_39
+    21300080: Zero'sEffects_40
+    21300082: Zero'sEffects_41
+    21300084: Zero'sEffects_42
+    21300086: Zero'sEffects_43
+    21300088: Zero'sEffects_44
+    21300090: Zero'sEffects_45
+    21300092: Zero'sEffects_46
+    21300094: Zero'sEffects_47
+    21300096: Zero'sEffects_48
+    21300098: Zero'sEffects_49
+    21300100: Zero'sEffects_50
+    21300102: Zero'sEffects_51
+    21300104: Zero'sEffects_52
+    21300106: Zero'sEffects_53
+    21300108: Zero'sEffects_54
+    21300110: Zero'sEffects_55
+    21300112: Zero'sEffects_56
+    21300114: Zero'sEffects_57
+    21300116: Zero'sEffects_58
+    21300118: Dash6
+    21300120: Dash1
+    21300122: Dash2
+    21300124: Dash3
+    21300126: Dash4
+    21300128: Dash5
+    21300130: Zero'sEffects_73
+    21300132: Zero'sEffects_74
+    21300134: Zero'sEffects_75
+    21300136: Zero'sEffects_76
+    21300138: Zero'sEffects_77
+    21300140: Zero'sEffects_78
+    21300142: Zero'sEffects_79
+    21300144: Zero'sEffects_80
+    21300146: Zero'sEffects_81
+    21300148: Zero'sEffects_82
+    21300150: Zero'sEffects_83
+    21300152: Zero'sEffects_84
+    21300154: Zero'sEffects_85
+    21300156: Zero'sEffects_86
+    21300158: Zero'sEffects_87
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Zero'sEffects_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 374
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 374
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 371
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 372
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 369
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 340
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 344
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 342
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 342
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 344
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 298
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 298
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 296
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 300
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 295
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 296
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 299
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 300
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 253
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 253
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 251
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 255
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 255
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 253
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 251
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 252
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 209
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 209
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 207
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 211
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 212
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 210
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_34
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 210
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 212
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 165
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_37
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 165
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 163
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 167
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 170
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 171
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 168
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_43
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 170
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 131
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 131
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 130
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 130
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_48
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 131
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_50
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 130
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 130
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 101
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 100
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_56
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 101
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 101
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_58
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 100
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dash6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 55
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dash1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 51
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dash2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 51
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dash3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 51
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dash4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 53
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dash5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 55
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 10
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_75
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_77
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_78
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_79
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_80
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_82
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_83
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_84
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_85
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_86
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 13
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Zero'sEffects_87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 13
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
